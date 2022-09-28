@@ -1,0 +1,764 @@
+2022-07-05 15:11:43,902 DEBUG - Starting ServiceWrapper in the CLI mode
+2022-07-05 15:11:44,816 INFO  - Installing the service with id 'back'
+2022-07-05 15:11:44,857 DEBUG - Completed. Exit code is 0
+2022-07-05 15:11:54,276 INFO  - Starting ServiceWrapper in the service mode
+2022-07-05 15:11:54,544 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-05 15:11:54,580 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-05 15:11:54,704 INFO  - Started process 1308
+2022-07-05 15:11:54,733 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-05 15:14:18,046 INFO  - Stopping back
+2022-07-05 15:14:18,047 DEBUG - ProcessKill 1308
+2022-07-05 15:14:18,366 INFO  - Found child process: 1948 Name: conhost.exe
+2022-07-05 15:14:18,410 INFO  - Stopping process 1948
+2022-07-05 15:14:18,416 INFO  - Send SIGINT 1948
+2022-07-05 15:14:18,421 WARN  - SIGINT to 1948 failed - Killing as fallback
+2022-07-05 15:14:18,423 INFO  - Stopping process 1308
+2022-07-05 15:14:18,427 INFO  - Send SIGINT 1308
+2022-07-05 15:14:18,428 WARN  - SIGINT to 1308 failed - Killing as fallback
+2022-07-05 15:14:18,430 INFO  - Finished back
+2022-07-05 15:14:18,433 DEBUG - Completed. Exit code is 0
+2022-07-05 15:24:57,901 INFO  - Starting ServiceWrapper in the service mode
+2022-07-05 15:24:57,933 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-05 15:24:57,936 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-05 15:24:57,950 INFO  - Started process 2580
+2022-07-05 15:24:57,954 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-06 09:08:22,375 INFO  - Stopping back
+2022-07-06 09:08:22,382 DEBUG - ProcessKill 2580
+2022-07-06 09:08:22,658 INFO  - Found child process: 4464 Name: conhost.exe
+2022-07-06 09:08:22,685 INFO  - Stopping process 4464
+2022-07-06 09:08:22,693 INFO  - Send SIGINT 4464
+2022-07-06 09:08:22,700 WARN  - SIGINT to 4464 failed - Killing as fallback
+2022-07-06 09:08:22,709 INFO  - Stopping process 2580
+2022-07-06 09:08:22,712 INFO  - Send SIGINT 2580
+2022-07-06 09:08:22,713 WARN  - SIGINT to 2580 failed - Killing as fallback
+2022-07-06 09:08:22,724 INFO  - Finished back
+2022-07-06 09:08:22,727 DEBUG - Completed. Exit code is 0
+2022-07-06 09:37:47,091 INFO  - Starting ServiceWrapper in the service mode
+2022-07-06 09:37:47,185 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 09:37:47,197 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 09:37:47,260 INFO  - Started process 5324
+2022-07-06 09:37:47,267 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-06 15:02:40,785 INFO  - Stopping back
+2022-07-06 15:02:40,792 DEBUG - ProcessKill 5324
+2022-07-06 15:02:41,158 INFO  - Found child process: 4912 Name: conhost.exe
+2022-07-06 15:02:41,186 INFO  - Stopping process 4912
+2022-07-06 15:02:41,200 INFO  - Send SIGINT 4912
+2022-07-06 15:02:41,208 WARN  - SIGINT to 4912 failed - Killing as fallback
+2022-07-06 15:02:41,218 INFO  - Stopping process 5324
+2022-07-06 15:02:41,221 INFO  - Send SIGINT 5324
+2022-07-06 15:02:41,221 WARN  - SIGINT to 5324 failed - Killing as fallback
+2022-07-06 15:02:41,232 INFO  - Finished back
+2022-07-06 15:02:41,244 DEBUG - Completed. Exit code is 0
+2022-07-06 15:10:32,039 INFO  - Starting ServiceWrapper in the service mode
+2022-07-06 15:10:32,158 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 15:10:32,171 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 15:10:33,101 INFO  - Started process 6500
+2022-07-06 15:10:33,109 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-06 17:07:18,601 INFO  - Stopping back
+2022-07-06 17:07:18,603 DEBUG - ProcessKill 6500
+2022-07-06 17:07:18,937 INFO  - Found child process: 3504 Name: conhost.exe
+2022-07-06 17:07:18,964 INFO  - Stopping process 3504
+2022-07-06 17:07:18,971 INFO  - Send SIGINT 3504
+2022-07-06 17:07:18,977 WARN  - SIGINT to 3504 failed - Killing as fallback
+2022-07-06 17:07:18,981 INFO  - Stopping process 6500
+2022-07-06 17:07:18,984 INFO  - Send SIGINT 6500
+2022-07-06 17:07:18,984 WARN  - SIGINT to 6500 failed - Killing as fallback
+2022-07-06 17:07:18,987 INFO  - Finished back
+2022-07-06 17:07:18,990 DEBUG - Completed. Exit code is 0
+2022-07-06 17:16:07,878 INFO  - Starting ServiceWrapper in the service mode
+2022-07-06 17:16:07,973 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 17:16:07,984 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 17:16:08,016 INFO  - Started process 4556
+2022-07-06 17:16:08,027 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-06 20:04:58,587 INFO  - Stopping back
+2022-07-06 20:04:58,588 DEBUG - ProcessKill 4556
+2022-07-06 20:04:58,826 INFO  - Found child process: 6920 Name: conhost.exe
+2022-07-06 20:04:58,849 INFO  - Stopping process 6920
+2022-07-06 20:04:58,855 INFO  - Send SIGINT 6920
+2022-07-06 20:04:58,860 WARN  - SIGINT to 6920 failed - Killing as fallback
+2022-07-06 20:04:58,861 INFO  - Stopping process 4556
+2022-07-06 20:04:58,864 INFO  - Send SIGINT 4556
+2022-07-06 20:04:58,864 WARN  - SIGINT to 4556 failed - Killing as fallback
+2022-07-06 20:04:58,867 INFO  - Finished back
+2022-07-06 20:04:58,868 DEBUG - Completed. Exit code is 0
+2022-07-06 20:11:20,952 INFO  - Starting ServiceWrapper in the service mode
+2022-07-06 20:11:21,059 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 20:11:21,070 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-06 20:11:22,258 INFO  - Started process 6408
+2022-07-06 20:11:22,267 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-11 10:39:56,405 INFO  - Stopping back
+2022-07-11 10:39:56,410 DEBUG - ProcessKill 6408
+2022-07-11 10:39:56,722 INFO  - Found child process: 5528 Name: conhost.exe
+2022-07-11 10:39:56,747 INFO  - Stopping process 5528
+2022-07-11 10:39:56,759 INFO  - Send SIGINT 5528
+2022-07-11 10:39:56,768 WARN  - SIGINT to 5528 failed - Killing as fallback
+2022-07-11 10:39:56,776 INFO  - Stopping process 6408
+2022-07-11 10:39:56,778 INFO  - Send SIGINT 6408
+2022-07-11 10:39:56,783 WARN  - SIGINT to 6408 failed - Killing as fallback
+2022-07-11 10:39:56,795 INFO  - Finished back
+2022-07-11 10:39:56,799 DEBUG - Completed. Exit code is 0
+2022-07-11 10:46:21,603 INFO  - Starting ServiceWrapper in the service mode
+2022-07-11 10:46:21,686 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 10:46:21,698 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 10:46:21,733 INFO  - Started process 5784
+2022-07-11 10:46:21,742 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-11 12:46:45,503 INFO  - Stopping back
+2022-07-11 12:46:45,504 DEBUG - ProcessKill 5784
+2022-07-11 12:46:45,669 INFO  - Found child process: 7120 Name: conhost.exe
+2022-07-11 12:46:45,694 INFO  - Stopping process 7120
+2022-07-11 12:46:45,699 INFO  - Send SIGINT 7120
+2022-07-11 12:46:45,702 WARN  - SIGINT to 7120 failed - Killing as fallback
+2022-07-11 12:46:45,703 INFO  - Stopping process 5784
+2022-07-11 12:46:45,706 INFO  - Send SIGINT 5784
+2022-07-11 12:46:45,706 WARN  - SIGINT to 5784 failed - Killing as fallback
+2022-07-11 12:46:45,709 INFO  - Finished back
+2022-07-11 12:46:45,710 DEBUG - Completed. Exit code is 0
+2022-07-11 12:52:28,643 INFO  - Starting ServiceWrapper in the service mode
+2022-07-11 12:52:28,687 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 12:52:28,692 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 12:52:28,714 INFO  - Started process 2464
+2022-07-11 12:52:28,718 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-11 13:14:10,614 INFO  - Stopping back
+2022-07-11 13:14:10,614 DEBUG - ProcessKill 2464
+2022-07-11 13:14:10,842 INFO  - Found child process: 4876 Name: conhost.exe
+2022-07-11 13:14:10,880 INFO  - Stopping process 4876
+2022-07-11 13:14:10,887 INFO  - Send SIGINT 4876
+2022-07-11 13:14:10,891 WARN  - SIGINT to 4876 failed - Killing as fallback
+2022-07-11 13:14:10,895 INFO  - Stopping process 2464
+2022-07-11 13:14:10,898 INFO  - Send SIGINT 2464
+2022-07-11 13:14:10,899 WARN  - SIGINT to 2464 failed - Killing as fallback
+2022-07-11 13:14:10,902 INFO  - Finished back
+2022-07-11 13:14:10,905 DEBUG - Completed. Exit code is 0
+2022-07-11 13:14:24,867 INFO  - Starting ServiceWrapper in the service mode
+2022-07-11 13:14:24,894 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 13:14:24,898 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 13:14:24,909 INFO  - Started process 5940
+2022-07-11 13:14:24,913 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-11 13:33:03,248 INFO  - Stopping back
+2022-07-11 13:33:03,256 DEBUG - ProcessKill 5940
+2022-07-11 13:33:03,657 INFO  - Found child process: 2488 Name: conhost.exe
+2022-07-11 13:33:03,725 INFO  - Stopping process 2488
+2022-07-11 13:33:03,738 INFO  - Send SIGINT 2488
+2022-07-11 13:33:03,740 WARN  - SIGINT to 2488 failed - Killing as fallback
+2022-07-11 13:33:03,748 INFO  - Stopping process 5940
+2022-07-11 13:33:03,753 INFO  - Send SIGINT 5940
+2022-07-11 13:33:03,758 WARN  - SIGINT to 5940 failed - Killing as fallback
+2022-07-11 13:33:03,764 INFO  - Finished back
+2022-07-11 13:33:03,767 DEBUG - Completed. Exit code is 0
+2022-07-11 13:35:22,297 INFO  - Starting ServiceWrapper in the service mode
+2022-07-11 13:35:22,387 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 13:35:22,400 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 13:35:22,438 INFO  - Started process 1224
+2022-07-11 13:35:22,447 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-11 15:22:49,126 INFO  - Stopping back
+2022-07-11 15:22:49,127 DEBUG - ProcessKill 1224
+2022-07-11 15:22:49,414 INFO  - Found child process: 3708 Name: conhost.exe
+2022-07-11 15:22:49,442 INFO  - Stopping process 3708
+2022-07-11 15:22:49,447 INFO  - Send SIGINT 3708
+2022-07-11 15:22:49,449 WARN  - SIGINT to 3708 failed - Killing as fallback
+2022-07-11 15:22:49,451 INFO  - Stopping process 1224
+2022-07-11 15:22:49,453 INFO  - Send SIGINT 1224
+2022-07-11 15:22:49,454 WARN  - SIGINT to 1224 failed - Killing as fallback
+2022-07-11 15:22:49,457 INFO  - Finished back
+2022-07-11 15:22:49,460 DEBUG - Completed. Exit code is 0
+2022-07-11 15:26:29,684 INFO  - Starting ServiceWrapper in the service mode
+2022-07-11 15:26:29,710 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 15:26:29,713 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 15:26:29,735 INFO  - Started process 5860
+2022-07-11 15:26:29,737 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-11 16:48:46,092 INFO  - Stopping back
+2022-07-11 16:48:46,093 DEBUG - ProcessKill 5860
+2022-07-11 16:48:46,433 INFO  - Found child process: 5408 Name: conhost.exe
+2022-07-11 16:48:46,463 INFO  - Stopping process 5408
+2022-07-11 16:48:46,470 INFO  - Send SIGINT 5408
+2022-07-11 16:48:46,471 WARN  - SIGINT to 5408 failed - Killing as fallback
+2022-07-11 16:48:46,473 INFO  - Stopping process 5860
+2022-07-11 16:48:46,476 INFO  - Send SIGINT 5860
+2022-07-11 16:48:46,476 WARN  - SIGINT to 5860 failed - Killing as fallback
+2022-07-11 16:48:46,479 INFO  - Finished back
+2022-07-11 16:48:46,480 DEBUG - Completed. Exit code is 0
+2022-07-11 16:53:13,488 INFO  - Starting ServiceWrapper in the service mode
+2022-07-11 16:53:13,515 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 16:53:13,519 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-11 16:53:13,533 INFO  - Started process 7112
+2022-07-11 16:53:13,538 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-12 23:09:22,571 INFO  - Stopping back
+2022-07-12 23:09:22,590 DEBUG - ProcessKill 7112
+2022-07-12 23:09:23,849 INFO  - Found child process: 464 Name: conhost.exe
+2022-07-12 23:09:23,973 INFO  - Stopping process 464
+2022-07-12 23:09:24,016 INFO  - Send SIGINT 464
+2022-07-12 23:09:24,028 WARN  - SIGINT to 464 failed - Killing as fallback
+2022-07-12 23:09:24,053 INFO  - Stopping process 7112
+2022-07-12 23:09:24,057 INFO  - Send SIGINT 7112
+2022-07-12 23:09:24,061 WARN  - SIGINT to 7112 failed - Killing as fallback
+2022-07-12 23:09:24,083 INFO  - Finished back
+2022-07-12 23:09:24,095 DEBUG - Completed. Exit code is 0
+2022-07-12 23:11:13,778 INFO  - Starting ServiceWrapper in the service mode
+2022-07-12 23:11:13,853 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-12 23:11:13,864 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-12 23:11:13,898 INFO  - Started process 6088
+2022-07-12 23:11:13,906 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-13 16:11:07,297 INFO  - Stopping back
+2022-07-13 16:11:07,303 DEBUG - ProcessKill 6088
+2022-07-13 16:11:07,637 INFO  - Found child process: 5732 Name: conhost.exe
+2022-07-13 16:11:07,701 INFO  - Stopping process 5732
+2022-07-13 16:11:07,716 INFO  - Send SIGINT 5732
+2022-07-13 16:11:07,723 WARN  - SIGINT to 5732 failed - Killing as fallback
+2022-07-13 16:11:07,737 INFO  - Stopping process 6088
+2022-07-13 16:11:07,741 INFO  - Send SIGINT 6088
+2022-07-13 16:11:07,741 WARN  - SIGINT to 6088 failed - Killing as fallback
+2022-07-13 16:11:07,763 INFO  - Finished back
+2022-07-13 16:11:07,770 DEBUG - Completed. Exit code is 0
+2022-07-13 16:11:12,821 INFO  - Starting ServiceWrapper in the service mode
+2022-07-13 16:11:12,883 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-13 16:11:12,893 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-13 16:11:12,926 INFO  - Started process 6760
+2022-07-13 16:11:12,936 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-14 14:06:05,216 INFO  - Stopping back
+2022-07-14 14:06:05,223 DEBUG - ProcessKill 6760
+2022-07-14 14:06:05,573 INFO  - Found child process: 6952 Name: conhost.exe
+2022-07-14 14:06:05,603 INFO  - Stopping process 6952
+2022-07-14 14:06:05,616 INFO  - Send SIGINT 6952
+2022-07-14 14:06:05,623 WARN  - SIGINT to 6952 failed - Killing as fallback
+2022-07-14 14:06:05,633 INFO  - Stopping process 6760
+2022-07-14 14:06:05,636 INFO  - Send SIGINT 6760
+2022-07-14 14:06:05,636 WARN  - SIGINT to 6760 failed - Killing as fallback
+2022-07-14 14:06:05,647 INFO  - Finished back
+2022-07-14 14:06:05,650 DEBUG - Completed. Exit code is 0
+2022-07-14 14:11:08,711 INFO  - Starting ServiceWrapper in the service mode
+2022-07-14 14:11:08,846 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-14 14:11:08,861 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-14 14:11:08,911 INFO  - Started process 1804
+2022-07-14 14:11:08,928 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-14 18:13:07,303 INFO  - Stopping back
+2022-07-14 18:13:07,307 DEBUG - ProcessKill 1804
+2022-07-14 18:13:07,929 INFO  - Found child process: 5252 Name: conhost.exe
+2022-07-14 18:13:07,958 INFO  - Stopping process 5252
+2022-07-14 18:13:07,964 INFO  - Send SIGINT 5252
+2022-07-14 18:13:07,971 WARN  - SIGINT to 5252 failed - Killing as fallback
+2022-07-14 18:13:07,973 INFO  - Stopping process 1804
+2022-07-14 18:13:07,976 INFO  - Send SIGINT 1804
+2022-07-14 18:13:07,976 WARN  - SIGINT to 1804 failed - Killing as fallback
+2022-07-14 18:13:07,982 INFO  - Finished back
+2022-07-14 18:13:07,982 DEBUG - Completed. Exit code is 0
+2022-07-14 18:22:41,533 INFO  - Starting ServiceWrapper in the service mode
+2022-07-14 18:22:41,617 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-14 18:22:41,631 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-14 18:22:41,667 INFO  - Started process 1304
+2022-07-14 18:22:41,677 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-15 10:14:14,556 INFO  - Stopping back
+2022-07-15 10:14:14,564 DEBUG - ProcessKill 1304
+2022-07-15 10:14:15,009 INFO  - Found child process: 6404 Name: conhost.exe
+2022-07-15 10:14:15,040 INFO  - Stopping process 6404
+2022-07-15 10:14:15,055 INFO  - Send SIGINT 6404
+2022-07-15 10:14:15,063 WARN  - SIGINT to 6404 failed - Killing as fallback
+2022-07-15 10:14:15,074 INFO  - Stopping process 1304
+2022-07-15 10:14:15,077 INFO  - Send SIGINT 1304
+2022-07-15 10:14:15,077 WARN  - SIGINT to 1304 failed - Killing as fallback
+2022-07-15 10:14:15,088 INFO  - Finished back
+2022-07-15 10:14:15,090 DEBUG - Completed. Exit code is 0
+2022-07-15 10:14:16,670 INFO  - Starting ServiceWrapper in the service mode
+2022-07-15 10:14:16,725 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 10:14:16,733 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 10:14:16,762 INFO  - Started process 3460
+2022-07-15 10:14:16,772 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-15 11:30:54,814 INFO  - Stopping back
+2022-07-15 11:30:54,820 DEBUG - ProcessKill 3460
+2022-07-15 11:30:55,198 INFO  - Found child process: 3604 Name: conhost.exe
+2022-07-15 11:30:55,231 INFO  - Stopping process 3604
+2022-07-15 11:30:55,246 INFO  - Send SIGINT 3604
+2022-07-15 11:30:55,253 WARN  - SIGINT to 3604 failed - Killing as fallback
+2022-07-15 11:30:55,267 INFO  - Stopping process 3460
+2022-07-15 11:30:55,270 INFO  - Send SIGINT 3460
+2022-07-15 11:30:55,271 WARN  - SIGINT to 3460 failed - Killing as fallback
+2022-07-15 11:30:55,280 INFO  - Finished back
+2022-07-15 11:30:55,283 DEBUG - Completed. Exit code is 0
+2022-07-15 11:36:31,856 INFO  - Starting ServiceWrapper in the service mode
+2022-07-15 11:36:31,891 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 11:36:31,894 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 11:36:31,914 INFO  - Started process 5324
+2022-07-15 11:36:31,923 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-15 13:36:13,090 INFO  - Stopping back
+2022-07-15 13:36:13,097 DEBUG - ProcessKill 5324
+2022-07-15 13:36:13,449 INFO  - Found child process: 4824 Name: conhost.exe
+2022-07-15 13:36:13,476 INFO  - Stopping process 4824
+2022-07-15 13:36:13,484 INFO  - Send SIGINT 4824
+2022-07-15 13:36:13,492 WARN  - SIGINT to 4824 failed - Killing as fallback
+2022-07-15 13:36:13,496 INFO  - Stopping process 5324
+2022-07-15 13:36:13,499 INFO  - Send SIGINT 5324
+2022-07-15 13:36:13,500 WARN  - SIGINT to 5324 failed - Killing as fallback
+2022-07-15 13:36:13,508 INFO  - Finished back
+2022-07-15 13:36:13,517 DEBUG - Completed. Exit code is 0
+2022-07-15 13:36:19,680 INFO  - Starting ServiceWrapper in the service mode
+2022-07-15 13:36:19,716 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 13:36:19,726 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 13:36:19,748 INFO  - Started process 6980
+2022-07-15 13:36:19,754 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-15 14:13:37,696 INFO  - Stopping back
+2022-07-15 14:13:37,750 DEBUG - ProcessKill 6980
+2022-07-15 14:13:38,400 WARN  - Failed to locate children of the process with PID=6980. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.Util.ProcessHelper.GetChildPids(Int32 pid)
+2022-07-15 14:13:38,562 INFO  - Stopping process 6980
+2022-07-15 14:13:38,577 INFO  - Send SIGINT 6980
+2022-07-15 14:13:40,558 INFO  - SIGINT to6980 successful
+2022-07-15 14:13:40,558 INFO  - Finished back
+2022-07-15 14:13:40,558 DEBUG - Completed. Exit code is 0
+2022-07-15 14:13:55,323 INFO  - Starting ServiceWrapper in the service mode
+2022-07-15 14:13:55,436 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 14:13:55,447 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 14:13:55,504 INFO  - Started process 2704
+2022-07-15 14:13:55,507 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-15 17:50:28,126 INFO  - Stopping back
+2022-07-15 17:50:28,132 DEBUG - ProcessKill 2704
+2022-07-15 17:50:28,359 INFO  - Found child process: 2752 Name: conhost.exe
+2022-07-15 17:50:28,384 INFO  - Stopping process 2752
+2022-07-15 17:50:28,397 INFO  - Send SIGINT 2752
+2022-07-15 17:50:28,403 WARN  - SIGINT to 2752 failed - Killing as fallback
+2022-07-15 17:50:28,413 INFO  - Stopping process 2704
+2022-07-15 17:50:28,415 INFO  - Send SIGINT 2704
+2022-07-15 17:50:28,419 WARN  - SIGINT to 2704 failed - Killing as fallback
+2022-07-15 17:50:28,429 INFO  - Finished back
+2022-07-15 17:50:28,431 DEBUG - Completed. Exit code is 0
+2022-07-15 17:50:49,895 INFO  - Starting ServiceWrapper in the service mode
+2022-07-15 17:50:49,947 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 17:50:49,956 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-15 17:50:49,983 INFO  - Started process 6084
+2022-07-15 17:50:49,989 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-18 15:14:14,624 INFO  - Stopping back
+2022-07-18 15:14:14,631 DEBUG - ProcessKill 6084
+2022-07-18 15:14:14,984 INFO  - Found child process: 5444 Name: conhost.exe
+2022-07-18 15:14:15,017 INFO  - Stopping process 5444
+2022-07-18 15:14:15,032 INFO  - Send SIGINT 5444
+2022-07-18 15:14:15,039 WARN  - SIGINT to 5444 failed - Killing as fallback
+2022-07-18 15:14:15,052 INFO  - Stopping process 6084
+2022-07-18 15:14:15,055 INFO  - Send SIGINT 6084
+2022-07-18 15:14:15,055 WARN  - SIGINT to 6084 failed - Killing as fallback
+2022-07-18 15:14:15,068 INFO  - Finished back
+2022-07-18 15:14:15,072 DEBUG - Completed. Exit code is 0
+2022-07-18 15:20:48,992 INFO  - Starting ServiceWrapper in the service mode
+2022-07-18 15:20:49,092 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-18 15:20:49,106 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-18 15:20:49,146 INFO  - Started process 3660
+2022-07-18 15:20:49,155 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-18 18:26:29,614 INFO  - Stopping back
+2022-07-18 18:26:29,617 DEBUG - ProcessKill 3660
+2022-07-18 18:26:29,745 INFO  - Found child process: 3016 Name: conhost.exe
+2022-07-18 18:26:29,767 INFO  - Stopping process 3016
+2022-07-18 18:26:29,779 INFO  - Send SIGINT 3016
+2022-07-18 18:26:29,784 WARN  - SIGINT to 3016 failed - Killing as fallback
+2022-07-18 18:26:29,794 INFO  - Stopping process 3660
+2022-07-18 18:26:29,796 INFO  - Send SIGINT 3660
+2022-07-18 18:26:29,797 WARN  - SIGINT to 3660 failed - Killing as fallback
+2022-07-18 18:26:29,801 INFO  - Finished back
+2022-07-18 18:26:29,803 DEBUG - Completed. Exit code is 0
+2022-07-18 18:26:53,040 INFO  - Starting ServiceWrapper in the service mode
+2022-07-18 18:26:53,087 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-18 18:26:53,091 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-18 18:26:53,114 INFO  - Started process 2820
+2022-07-18 18:26:53,124 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-18 19:04:01,282 INFO  - Stopping back
+2022-07-18 19:04:01,292 DEBUG - ProcessKill 2820
+2022-07-18 19:04:01,566 INFO  - Found child process: 5820 Name: conhost.exe
+2022-07-18 19:04:01,589 INFO  - Stopping process 5820
+2022-07-18 19:04:01,595 INFO  - Send SIGINT 5820
+2022-07-18 19:04:01,599 WARN  - SIGINT to 5820 failed - Killing as fallback
+2022-07-18 19:04:01,602 INFO  - Stopping process 2820
+2022-07-18 19:04:01,604 INFO  - Send SIGINT 2820
+2022-07-18 19:04:01,605 WARN  - SIGINT to 2820 failed - Killing as fallback
+2022-07-18 19:04:01,609 INFO  - Finished back
+2022-07-18 19:04:01,612 DEBUG - Completed. Exit code is 0
+2022-07-18 19:05:28,913 INFO  - Starting ServiceWrapper in the service mode
+2022-07-18 19:05:28,940 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-18 19:05:28,943 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-18 19:05:28,956 INFO  - Started process 1832
+2022-07-18 19:05:28,961 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-21 09:59:28,433 INFO  - Stopping back
+2022-07-21 09:59:28,436 DEBUG - ProcessKill 1832
+2022-07-21 09:59:28,610 INFO  - Found child process: 4348 Name: conhost.exe
+2022-07-21 09:59:28,634 INFO  - Stopping process 4348
+2022-07-21 09:59:28,644 INFO  - Send SIGINT 4348
+2022-07-21 09:59:28,648 WARN  - SIGINT to 4348 failed - Killing as fallback
+2022-07-21 09:59:28,653 INFO  - Stopping process 1832
+2022-07-21 09:59:28,656 INFO  - Send SIGINT 1832
+2022-07-21 09:59:28,660 WARN  - SIGINT to 1832 failed - Killing as fallback
+2022-07-21 09:59:28,663 INFO  - Finished back
+2022-07-21 09:59:28,666 DEBUG - Completed. Exit code is 0
+2022-07-21 09:59:58,261 INFO  - Starting ServiceWrapper in the service mode
+2022-07-21 09:59:58,295 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-21 09:59:58,299 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-21 09:59:58,317 INFO  - Started process 5884
+2022-07-21 09:59:58,324 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-21 10:21:48,048 INFO  - Stopping back
+2022-07-21 10:21:48,049 DEBUG - ProcessKill 5884
+2022-07-21 10:21:48,167 INFO  - Found child process: 5776 Name: conhost.exe
+2022-07-21 10:21:48,187 INFO  - Stopping process 5776
+2022-07-21 10:21:48,190 INFO  - Send SIGINT 5776
+2022-07-21 10:21:48,191 WARN  - SIGINT to 5776 failed - Killing as fallback
+2022-07-21 10:21:48,193 INFO  - Stopping process 5884
+2022-07-21 10:21:48,195 INFO  - Send SIGINT 5884
+2022-07-21 10:21:48,196 WARN  - SIGINT to 5884 failed - Killing as fallback
+2022-07-21 10:21:48,200 INFO  - Finished back
+2022-07-21 10:21:48,201 DEBUG - Completed. Exit code is 0
+2022-07-21 10:24:05,766 INFO  - Starting ServiceWrapper in the service mode
+2022-07-21 10:24:05,831 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-21 10:24:05,836 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-21 10:24:05,861 INFO  - Started process 4724
+2022-07-21 10:24:05,870 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-21 10:51:27,079 INFO  - Stopping back
+2022-07-21 10:51:27,080 DEBUG - ProcessKill 4724
+2022-07-21 10:51:27,361 INFO  - Found child process: 5708 Name: conhost.exe
+2022-07-21 10:51:27,386 INFO  - Stopping process 5708
+2022-07-21 10:51:27,396 INFO  - Send SIGINT 5708
+2022-07-21 10:51:27,399 WARN  - SIGINT to 5708 failed - Killing as fallback
+2022-07-21 10:51:27,400 INFO  - Stopping process 4724
+2022-07-21 10:51:27,403 INFO  - Send SIGINT 4724
+2022-07-21 10:51:27,403 WARN  - SIGINT to 4724 failed - Killing as fallback
+2022-07-21 10:51:27,408 INFO  - Finished back
+2022-07-21 10:51:27,409 DEBUG - Completed. Exit code is 0
+2022-07-21 10:53:18,428 INFO  - Starting ServiceWrapper in the service mode
+2022-07-21 10:53:18,491 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-21 10:53:18,495 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-21 10:53:18,517 INFO  - Started process 2948
+2022-07-21 10:53:18,525 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-22 09:56:13,362 INFO  - Stopping back
+2022-07-22 09:56:13,365 DEBUG - ProcessKill 2948
+2022-07-22 09:56:13,428 INFO  - Found child process: 1096 Name: conhost.exe
+2022-07-22 09:56:13,447 INFO  - Stopping process 1096
+2022-07-22 09:56:13,453 INFO  - Send SIGINT 1096
+2022-07-22 09:56:13,455 WARN  - SIGINT to 1096 failed - Killing as fallback
+2022-07-22 09:56:13,460 INFO  - Stopping process 2948
+2022-07-22 09:56:13,462 INFO  - Send SIGINT 2948
+2022-07-22 09:56:13,462 WARN  - SIGINT to 2948 failed - Killing as fallback
+2022-07-22 09:56:13,465 INFO  - Finished back
+2022-07-22 09:56:13,467 DEBUG - Completed. Exit code is 0
+2022-07-22 10:31:46,999 INFO  - Starting ServiceWrapper in the service mode
+2022-07-22 10:31:47,085 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-22 10:31:47,098 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-22 10:31:47,146 INFO  - Started process 5476
+2022-07-22 10:31:47,155 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-22 19:07:18,358 INFO  - Stopping back
+2022-07-22 19:07:18,360 DEBUG - ProcessKill 5476
+2022-07-22 19:07:18,471 INFO  - Found child process: 5624 Name: conhost.exe
+2022-07-22 19:07:18,513 INFO  - Stopping process 5624
+2022-07-22 19:07:18,520 INFO  - Send SIGINT 5624
+2022-07-22 19:07:18,525 WARN  - SIGINT to 5624 failed - Killing as fallback
+2022-07-22 19:07:18,533 INFO  - Stopping process 5476
+2022-07-22 19:07:18,536 INFO  - Send SIGINT 5476
+2022-07-22 19:07:18,545 WARN  - SIGINT to 5476 failed - Killing as fallback
+2022-07-22 19:07:18,549 INFO  - Finished back
+2022-07-22 19:07:18,557 DEBUG - Completed. Exit code is 0
+2022-07-22 19:11:56,258 INFO  - Starting ServiceWrapper in the service mode
+2022-07-22 19:11:56,288 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-22 19:11:56,292 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-22 19:11:56,308 INFO  - Started process 3028
+2022-07-22 19:11:56,310 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-25 14:09:01,592 INFO  - Stopping back
+2022-07-25 14:09:01,595 DEBUG - ProcessKill 3028
+2022-07-25 14:09:01,669 INFO  - Found child process: 5916 Name: conhost.exe
+2022-07-25 14:09:01,689 INFO  - Stopping process 5916
+2022-07-25 14:09:01,694 INFO  - Send SIGINT 5916
+2022-07-25 14:09:01,698 WARN  - SIGINT to 5916 failed - Killing as fallback
+2022-07-25 14:09:01,704 INFO  - Stopping process 3028
+2022-07-25 14:09:01,706 INFO  - Send SIGINT 3028
+2022-07-25 14:09:01,707 WARN  - SIGINT to 3028 failed - Killing as fallback
+2022-07-25 14:09:01,712 INFO  - Finished back
+2022-07-25 14:09:01,713 DEBUG - Completed. Exit code is 0
+2022-07-25 14:19:03,143 INFO  - Starting ServiceWrapper in the service mode
+2022-07-25 14:19:03,234 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-25 14:19:03,247 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-25 14:19:03,287 INFO  - Started process 332
+2022-07-25 14:19:03,294 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-26 10:25:05,295 INFO  - Stopping back
+2022-07-26 10:25:05,298 DEBUG - ProcessKill 332
+2022-07-26 10:25:05,362 INFO  - Found child process: 2504 Name: conhost.exe
+2022-07-26 10:25:05,392 INFO  - Stopping process 2504
+2022-07-26 10:25:05,396 INFO  - Send SIGINT 2504
+2022-07-26 10:25:05,399 WARN  - SIGINT to 2504 failed - Killing as fallback
+2022-07-26 10:25:05,404 INFO  - Stopping process 332
+2022-07-26 10:25:05,406 INFO  - Send SIGINT 332
+2022-07-26 10:25:05,407 WARN  - SIGINT to 332 failed - Killing as fallback
+2022-07-26 10:25:05,422 INFO  - Finished back
+2022-07-26 10:25:05,424 DEBUG - Completed. Exit code is 0
+2022-07-26 10:31:35,356 INFO  - Starting ServiceWrapper in the service mode
+2022-07-26 10:31:35,557 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-26 10:31:35,571 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-26 10:31:35,618 INFO  - Started process 3188
+2022-07-26 10:31:35,628 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-26 19:00:42,852 INFO  - Stopping back
+2022-07-26 19:00:42,854 DEBUG - ProcessKill 3188
+2022-07-26 19:00:42,912 INFO  - Found child process: 3724 Name: conhost.exe
+2022-07-26 19:00:42,932 INFO  - Stopping process 3724
+2022-07-26 19:00:42,939 INFO  - Send SIGINT 3724
+2022-07-26 19:00:42,941 WARN  - SIGINT to 3724 failed - Killing as fallback
+2022-07-26 19:00:42,947 INFO  - Stopping process 3188
+2022-07-26 19:00:42,948 INFO  - Send SIGINT 3188
+2022-07-26 19:00:42,948 WARN  - SIGINT to 3188 failed - Killing as fallback
+2022-07-26 19:00:42,950 INFO  - Finished back
+2022-07-26 19:00:42,952 DEBUG - Completed. Exit code is 0
+2022-07-26 19:04:34,413 INFO  - Starting ServiceWrapper in the service mode
+2022-07-26 19:04:34,487 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-26 19:04:34,492 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-26 19:04:34,513 INFO  - Started process 3032
+2022-07-26 19:04:34,516 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-07-29 17:37:37,600 INFO  - Stopping back
+2022-07-29 17:37:37,602 DEBUG - ProcessKill 3032
+2022-07-29 17:37:37,663 INFO  - Found child process: 4560 Name: conhost.exe
+2022-07-29 17:37:37,679 INFO  - Stopping process 4560
+2022-07-29 17:37:37,683 INFO  - Send SIGINT 4560
+2022-07-29 17:37:37,686 WARN  - SIGINT to 4560 failed - Killing as fallback
+2022-07-29 17:37:37,690 INFO  - Stopping process 3032
+2022-07-29 17:37:37,692 INFO  - Send SIGINT 3032
+2022-07-29 17:37:37,692 WARN  - SIGINT to 3032 failed - Killing as fallback
+2022-07-29 17:37:37,696 INFO  - Finished back
+2022-07-29 17:37:37,697 DEBUG - Completed. Exit code is 0
+2022-07-29 17:52:09,674 INFO  - Starting ServiceWrapper in the service mode
+2022-07-29 17:52:09,704 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-29 17:52:09,707 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-07-29 17:52:09,725 INFO  - Started process 5196
+2022-07-29 17:52:09,730 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-01 17:38:07,994 INFO  - Stopping back
+2022-08-01 17:38:07,997 DEBUG - ProcessKill 5196
+2022-08-01 17:38:08,054 INFO  - Found child process: 1100 Name: conhost.exe
+2022-08-01 17:38:08,082 INFO  - Stopping process 1100
+2022-08-01 17:38:08,090 INFO  - Send SIGINT 1100
+2022-08-01 17:38:08,095 WARN  - SIGINT to 1100 failed - Killing as fallback
+2022-08-01 17:38:08,103 INFO  - Stopping process 5196
+2022-08-01 17:38:08,105 INFO  - Send SIGINT 5196
+2022-08-01 17:38:08,108 WARN  - SIGINT to 5196 failed - Killing as fallback
+2022-08-01 17:38:08,115 INFO  - Finished back
+2022-08-01 17:38:08,117 DEBUG - Completed. Exit code is 0
+2022-08-01 17:42:05,811 INFO  - Starting ServiceWrapper in the service mode
+2022-08-01 17:42:05,840 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-01 17:42:05,843 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-01 17:42:05,861 INFO  - Started process 6560
+2022-08-01 17:42:05,864 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-01 17:53:20,591 INFO  - Stopping back
+2022-08-01 17:53:20,591 DEBUG - ProcessKill 6560
+2022-08-01 17:53:20,638 INFO  - Found child process: 7040 Name: conhost.exe
+2022-08-01 17:53:20,657 INFO  - Stopping process 7040
+2022-08-01 17:53:20,660 INFO  - Send SIGINT 7040
+2022-08-01 17:53:20,661 WARN  - SIGINT to 7040 failed - Killing as fallback
+2022-08-01 17:53:20,663 INFO  - Stopping process 6560
+2022-08-01 17:53:20,665 INFO  - Send SIGINT 6560
+2022-08-01 17:53:20,666 WARN  - SIGINT to 6560 failed - Killing as fallback
+2022-08-01 17:53:20,668 INFO  - Finished back
+2022-08-01 17:53:20,670 DEBUG - Completed. Exit code is 0
+2022-08-01 17:57:52,869 INFO  - Starting ServiceWrapper in the service mode
+2022-08-01 17:57:52,892 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-01 17:57:52,895 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-01 17:57:52,912 INFO  - Started process 644
+2022-08-01 17:57:52,915 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-02 20:18:03,231 INFO  - Stopping back
+2022-08-02 20:18:03,234 DEBUG - ProcessKill 644
+2022-08-02 20:18:03,577 INFO  - Found child process: 904 Name: conhost.exe
+2022-08-02 20:18:03,606 INFO  - Stopping process 904
+2022-08-02 20:18:03,615 INFO  - Send SIGINT 904
+2022-08-02 20:18:03,622 WARN  - SIGINT to 904 failed - Killing as fallback
+2022-08-02 20:18:03,625 INFO  - Stopping process 644
+2022-08-02 20:18:03,628 INFO  - Send SIGINT 644
+2022-08-02 20:18:03,628 WARN  - SIGINT to 644 failed - Killing as fallback
+2022-08-02 20:18:03,633 INFO  - Finished back
+2022-08-02 20:18:03,635 DEBUG - Completed. Exit code is 0
+2022-08-02 20:19:14,948 INFO  - Starting ServiceWrapper in the service mode
+2022-08-02 20:19:15,055 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-02 20:19:15,069 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-02 20:19:15,130 INFO  - Started process 5836
+2022-08-02 20:19:15,143 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-02 20:19:38,359 INFO  - Stopping back
+2022-08-02 20:19:38,360 DEBUG - ProcessKill 5836
+2022-08-02 20:19:43,339 INFO  - Found child process: 2764 Name: conhost.exe
+2022-08-02 20:19:44,298 INFO  - Stopping process 2764
+2022-08-02 20:19:44,302 INFO  - Send SIGINT 2764
+2022-08-02 20:19:44,324 WARN  - SIGINT to 2764 failed - Killing as fallback
+2022-08-02 20:19:44,328 INFO  - Stopping process 5836
+2022-08-02 20:19:44,330 INFO  - Send SIGINT 5836
+2022-08-02 20:19:44,509 WARN  - SIGINT to 5836 failed - Killing as fallback
+2022-08-02 20:19:44,514 INFO  - Finished back
+2022-08-02 20:19:44,604 DEBUG - Completed. Exit code is 0
+2022-08-02 20:22:15,280 INFO  - Starting ServiceWrapper in the service mode
+2022-08-02 20:22:15,390 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-02 20:22:15,404 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-02 20:22:15,456 INFO  - Started process 2936
+2022-08-02 20:22:15,464 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-03 18:32:58,228 INFO  - Stopping back
+2022-08-03 18:32:58,231 DEBUG - ProcessKill 2936
+2022-08-03 18:32:58,319 INFO  - Found child process: 6584 Name: conhost.exe
+2022-08-03 18:32:58,366 INFO  - Stopping process 6584
+2022-08-03 18:32:58,373 INFO  - Send SIGINT 6584
+2022-08-03 18:32:58,379 WARN  - SIGINT to 6584 failed - Killing as fallback
+2022-08-03 18:32:58,385 INFO  - Stopping process 2936
+2022-08-03 18:32:58,387 INFO  - Send SIGINT 2936
+2022-08-03 18:32:58,396 WARN  - SIGINT to 2936 failed - Killing as fallback
+2022-08-03 18:32:58,401 INFO  - Finished back
+2022-08-03 18:32:58,412 DEBUG - Completed. Exit code is 0
+2022-08-03 18:37:13,169 INFO  - Starting ServiceWrapper in the service mode
+2022-08-03 18:37:13,263 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-03 18:37:13,277 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-03 18:37:13,325 INFO  - Started process 5816
+2022-08-03 18:37:13,335 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-04 18:50:37,092 INFO  - Stopping back
+2022-08-04 18:50:37,095 DEBUG - ProcessKill 5816
+2022-08-04 18:50:37,156 INFO  - Found child process: 6548 Name: conhost.exe
+2022-08-04 18:50:37,178 INFO  - Stopping process 6548
+2022-08-04 18:50:37,183 INFO  - Send SIGINT 6548
+2022-08-04 18:50:37,187 WARN  - SIGINT to 6548 failed - Killing as fallback
+2022-08-04 18:50:37,192 INFO  - Stopping process 5816
+2022-08-04 18:50:37,194 INFO  - Send SIGINT 5816
+2022-08-04 18:50:37,195 WARN  - SIGINT to 5816 failed - Killing as fallback
+2022-08-04 18:50:37,198 INFO  - Finished back
+2022-08-04 18:50:37,200 DEBUG - Completed. Exit code is 0
+2022-08-04 18:57:37,564 INFO  - Starting ServiceWrapper in the service mode
+2022-08-04 18:57:37,599 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-04 18:57:37,600 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-04 18:57:37,622 INFO  - Started process 6552
+2022-08-04 18:57:37,626 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-08 18:21:28,475 INFO  - Stopping back
+2022-08-08 18:21:28,505 DEBUG - ProcessKill 6552
+2022-08-08 18:21:29,780 INFO  - Found child process: 2776 Name: conhost.exe
+2022-08-08 18:21:29,882 INFO  - Stopping process 2776
+2022-08-08 18:21:29,909 INFO  - Send SIGINT 2776
+2022-08-08 18:21:29,921 WARN  - SIGINT to 2776 failed - Killing as fallback
+2022-08-08 18:21:29,954 INFO  - Stopping process 6552
+2022-08-08 18:21:29,958 INFO  - Send SIGINT 6552
+2022-08-08 18:21:30,229 WARN  - SIGINT to 6552 failed - Killing as fallback
+2022-08-08 18:21:30,601 INFO  - Finished back
+2022-08-08 18:21:30,919 DEBUG - Completed. Exit code is 0
+2022-08-08 18:30:19,642 INFO  - Starting ServiceWrapper in the service mode
+2022-08-08 18:30:19,699 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-08 18:30:19,703 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-08 18:30:19,746 INFO  - Started process 4484
+2022-08-08 18:30:19,749 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-15 18:53:39,219 INFO  - Stopping back
+2022-08-15 18:53:39,221 DEBUG - ProcessKill 4484
+2022-08-15 18:53:39,319 INFO  - Found child process: 1688 Name: conhost.exe
+2022-08-15 18:53:39,337 INFO  - Stopping process 1688
+2022-08-15 18:53:39,344 INFO  - Send SIGINT 1688
+2022-08-15 18:53:39,353 WARN  - SIGINT to 1688 failed - Killing as fallback
+2022-08-15 18:53:39,358 INFO  - Stopping process 4484
+2022-08-15 18:53:39,360 INFO  - Send SIGINT 4484
+2022-08-15 18:53:39,365 WARN  - SIGINT to 4484 failed - Killing as fallback
+2022-08-15 18:53:39,369 INFO  - Finished back
+2022-08-15 18:53:39,373 DEBUG - Completed. Exit code is 0
+2022-08-15 18:56:51,552 INFO  - Starting ServiceWrapper in the service mode
+2022-08-15 18:56:51,576 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-15 18:56:51,580 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-15 18:56:51,602 INFO  - Started process 2916
+2022-08-15 18:56:51,605 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-22 18:45:34,878 INFO  - Stopping back
+2022-08-22 18:45:34,887 DEBUG - ProcessKill 2916
+2022-08-22 18:45:35,721 INFO  - Found child process: 1700 Name: conhost.exe
+2022-08-22 18:45:35,817 INFO  - Stopping process 1700
+2022-08-22 18:45:35,836 INFO  - Send SIGINT 1700
+2022-08-22 18:45:35,844 WARN  - SIGINT to 1700 failed - Killing as fallback
+2022-08-22 18:45:35,858 INFO  - Stopping process 2916
+2022-08-22 18:45:35,863 INFO  - Send SIGINT 2916
+2022-08-22 18:45:35,867 WARN  - SIGINT to 2916 failed - Killing as fallback
+2022-08-22 18:45:35,880 INFO  - Finished back
+2022-08-22 18:45:35,888 DEBUG - Completed. Exit code is 0
+2022-08-22 18:48:53,513 INFO  - Starting ServiceWrapper in the service mode
+2022-08-22 18:48:53,585 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-22 18:48:53,596 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-22 18:48:53,626 INFO  - Started process 5776
+2022-08-22 18:48:53,634 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-08-25 18:34:34,210 INFO  - Stopping back
+2022-08-25 18:34:34,217 DEBUG - ProcessKill 5776
+2022-08-25 18:34:34,672 INFO  - Found child process: 1960 Name: conhost.exe
+2022-08-25 18:34:34,701 INFO  - Stopping process 1960
+2022-08-25 18:34:34,713 INFO  - Send SIGINT 1960
+2022-08-25 18:34:34,720 WARN  - SIGINT to 1960 failed - Killing as fallback
+2022-08-25 18:34:34,732 INFO  - Stopping process 5776
+2022-08-25 18:34:34,734 INFO  - Send SIGINT 5776
+2022-08-25 18:34:34,735 WARN  - SIGINT to 5776 failed - Killing as fallback
+2022-08-25 18:34:34,746 INFO  - Finished back
+2022-08-25 18:34:34,749 DEBUG - Completed. Exit code is 0
+2022-08-25 18:41:02,166 INFO  - Starting ServiceWrapper in the service mode
+2022-08-25 18:41:02,203 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-25 18:41:02,207 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-08-25 18:41:02,231 INFO  - Started process 2824
+2022-08-25 18:41:02,241 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-01 19:40:04,339 INFO  - Stopping back
+2022-09-01 19:40:04,344 DEBUG - ProcessKill 2824
+2022-09-01 19:40:04,766 INFO  - Found child process: 6984 Name: conhost.exe
+2022-09-01 19:40:04,812 INFO  - Stopping process 6984
+2022-09-01 19:40:04,827 INFO  - Send SIGINT 6984
+2022-09-01 19:40:04,832 WARN  - SIGINT to 6984 failed - Killing as fallback
+2022-09-01 19:40:04,844 INFO  - Stopping process 2824
+2022-09-01 19:40:04,847 INFO  - Send SIGINT 2824
+2022-09-01 19:40:04,850 WARN  - SIGINT to 2824 failed - Killing as fallback
+2022-09-01 19:40:04,861 INFO  - Finished back
+2022-09-01 19:40:04,863 DEBUG - Completed. Exit code is 0
+2022-09-01 19:42:29,265 INFO  - Starting ServiceWrapper in the service mode
+2022-09-01 19:42:29,333 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-01 19:42:29,343 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-01 19:42:29,377 INFO  - Started process 5128
+2022-09-01 19:42:29,387 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-06 18:30:36,105 INFO  - Stopping back
+2022-09-06 18:30:36,110 DEBUG - ProcessKill 5128
+2022-09-06 18:30:36,608 INFO  - Found child process: 5920 Name: conhost.exe
+2022-09-06 18:30:36,640 INFO  - Stopping process 5920
+2022-09-06 18:30:36,653 INFO  - Send SIGINT 5920
+2022-09-06 18:30:36,660 WARN  - SIGINT to 5920 failed - Killing as fallback
+2022-09-06 18:30:36,671 INFO  - Stopping process 5128
+2022-09-06 18:30:36,675 INFO  - Send SIGINT 5128
+2022-09-06 18:30:36,678 WARN  - SIGINT to 5128 failed - Killing as fallback
+2022-09-06 18:30:36,689 INFO  - Finished back
+2022-09-06 18:30:36,693 DEBUG - Completed. Exit code is 0
+2022-09-06 18:38:08,798 INFO  - Starting ServiceWrapper in the service mode
+2022-09-06 18:38:08,888 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-06 18:38:08,900 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-06 18:38:08,942 INFO  - Started process 4680
+2022-09-06 18:38:08,953 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-07 19:13:24,674 INFO  - Stopping back
+2022-09-07 19:13:24,682 DEBUG - ProcessKill 4680
+2022-09-07 19:13:24,958 INFO  - Found child process: 5136 Name: conhost.exe
+2022-09-07 19:13:24,998 INFO  - Stopping process 5136
+2022-09-07 19:13:25,012 INFO  - Send SIGINT 5136
+2022-09-07 19:13:25,020 WARN  - SIGINT to 5136 failed - Killing as fallback
+2022-09-07 19:13:25,030 INFO  - Stopping process 4680
+2022-09-07 19:13:25,034 INFO  - Send SIGINT 4680
+2022-09-07 19:13:25,034 WARN  - SIGINT to 4680 failed - Killing as fallback
+2022-09-07 19:13:25,044 INFO  - Finished back
+2022-09-07 19:13:25,048 DEBUG - Completed. Exit code is 0
+2022-09-07 19:14:14,140 INFO  - Starting ServiceWrapper in the service mode
+2022-09-07 19:14:14,194 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-07 19:14:14,203 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-07 19:14:14,233 INFO  - Started process 4984
+2022-09-07 19:14:14,241 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-09 19:03:27,922 INFO  - Stopping back
+2022-09-09 19:03:27,928 DEBUG - ProcessKill 4984
+2022-09-09 19:03:28,170 INFO  - Found child process: 7652 Name: conhost.exe
+2022-09-09 19:03:28,199 INFO  - Stopping process 7652
+2022-09-09 19:03:28,213 INFO  - Send SIGINT 7652
+2022-09-09 19:03:28,218 WARN  - SIGINT to 7652 failed - Killing as fallback
+2022-09-09 19:03:28,228 INFO  - Stopping process 4984
+2022-09-09 19:03:28,230 INFO  - Send SIGINT 4984
+2022-09-09 19:03:28,235 WARN  - SIGINT to 4984 failed - Killing as fallback
+2022-09-09 19:03:28,244 INFO  - Finished back
+2022-09-09 19:03:28,248 DEBUG - Completed. Exit code is 0
+2022-09-09 19:07:20,867 INFO  - Starting ServiceWrapper in the service mode
+2022-09-09 19:07:20,950 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-09 19:07:20,962 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-09 19:07:21,008 INFO  - Started process 2912
+2022-09-09 19:07:21,019 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
+2022-09-20 18:37:37,766 INFO  - Stopping back
+2022-09-20 18:37:37,770 DEBUG - ProcessKill 2912
+2022-09-20 18:37:38,276 INFO  - Found child process: 1184 Name: conhost.exe
+2022-09-20 18:37:38,347 INFO  - Stopping process 1184
+2022-09-20 18:37:38,360 INFO  - Send SIGINT 1184
+2022-09-20 18:37:38,365 WARN  - SIGINT to 1184 failed - Killing as fallback
+2022-09-20 18:37:38,374 INFO  - Stopping process 2912
+2022-09-20 18:37:38,378 INFO  - Send SIGINT 2912
+2022-09-20 18:37:38,386 WARN  - SIGINT to 2912 failed - Killing as fallback
+2022-09-20 18:37:38,394 INFO  - Finished back
+2022-09-20 18:37:38,397 DEBUG - Completed. Exit code is 0
+2022-09-20 18:46:21,588 INFO  - Starting ServiceWrapper in the service mode
+2022-09-20 18:46:21,687 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-20 18:46:21,698 INFO  - Starting java -jar "back.jar" --server.port=8080
+2022-09-20 18:46:21,750 INFO  - Started process 6840
+2022-09-20 18:46:21,762 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to winsw.SizeBasedRollingLogAppender
